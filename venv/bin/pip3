@@ -1,4 +1,4 @@
-#!/home/solomon/Desktop/2024_Analysis_rich/venv/bin/python3
+#!/home/vojan/Desktop/2024_Analysis_rich/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
